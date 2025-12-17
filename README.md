@@ -6,5 +6,5 @@
    (1) Navigate to https://swiftpackageindex.com/mattt/llama.swift and click "use this Package" button, copy the URL
    (2) Right click the project and choose "Add Dependencies"
    (3) Paste llama url on the search box and then click "Add Dependency" on the page.  
-aaaaaa
+   You will see the package dependencies listed on the project window. 
 ```
